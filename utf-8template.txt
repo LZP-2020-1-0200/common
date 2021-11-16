@@ -1,0 +1,19 @@
+utf8 pārbaude
+Al₂O₃ labākais metāla oksīds pasaulē
+най-добрият метален оксид
+καλύτερο οξείδιο μετάλλου
+
+ASCII(230) µ - mikro
+UTF8(CEBC) μ grieķu m
+UTF8(C2B5) µ - mikro
+
+pakāpes
+x⁰¹²³⁴⁵⁶⁷⁸⁹ x⁽ᵃᵇᶜᵈᵉᶠᵍʰⁱʲᵏˡᵐⁿᵒᵖʳˢᵗᵘᵛʷˣʸᶻ⁺ⁿ⁻⁾⁼
+indeksi
+x₀₁₂₃₄₅₆₇₈₉₊₋₌₍₎ₐₑₒₓₕₖₗₘₙₚₛₜ
+
+daži populāri savienojumi
+Bi₂S₃, Bi₂Se₃, Bi₂Te₃ Al₂O₃
+
+° - grādi
+℃ - pēc Celsija skalas
