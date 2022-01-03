@@ -21,3 +21,4 @@ Bi₂S₃, Bi₂Se₃, Bi₂Te₃ Al₂O₃
 (a·b) skalārais reizinājums
 × reizināšanas zīme
 ± plus mīnus
+Å Angstrēms
