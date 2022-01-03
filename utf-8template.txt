@@ -17,3 +17,7 @@ Bi₂S₃, Bi₂Se₃, Bi₂Te₃ Al₂O₃
 
 ° - grādi
 ℃ - pēc Celsija skalas
+
+(a·b) skalārais reizinājums
+× reizināšanas zīme
+± plus mīnus
