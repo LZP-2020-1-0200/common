@@ -23,3 +23,5 @@ Bi₂S₃, Bi₂Se₃, Bi₂Te₃ Al₂O₃
 ± plus mīnus
 Å Angstrēms
 Ω omega
+
+cm⁻¹ - apgrieztie centimetri
