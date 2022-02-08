@@ -24,5 +24,6 @@ H₂O
 ± plus mīnus
 Å Angstrēms
 Ω omega
+Δ delta
 
 cm⁻¹ - apgrieztie centimetri
