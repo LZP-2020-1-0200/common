@@ -21,6 +21,7 @@ H₂O
 ° - grādi
 ℃ - pēc Celsija skalas
 
+• trekns punkts
 (a·b) skalārais reizinājums
 × reizināšanas zīme
 ± plus mīnus
@@ -29,4 +30,3 @@ H₂O
 Δ delta
 
 cm⁻¹ - apgrieztie centimetri
-• trekns punkts
