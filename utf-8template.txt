@@ -30,6 +30,8 @@ VEGF₁₆₅
 Ω omega
 Δ delta
 
+Δλ/Δn
+
 cm⁻¹ - apgrieztie centimetri
 €
 ≈≠≤≥
