@@ -31,6 +31,8 @@ VEGF₁₆₅
 Δ delta
 
 Δλ/Δn
+λₘₐₓ,ₐᵢᵣ
+
 
 cm⁻¹ - apgrieztie centimetri
 €
