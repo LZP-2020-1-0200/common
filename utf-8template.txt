@@ -40,4 +40,4 @@ cm⁻¹ - apgrieztie centimetri
 µm⁻²
 α=4πr³(ε₁-εₘ)/(ε₁+2εₘ)
 
-stabilność
+stabilność “Ψ”
