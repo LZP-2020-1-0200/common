@@ -8,7 +8,7 @@ Al₂O₃ labākais metāla oksīds pasaulē
 ASCII(230) µ - mikro
 UTF8(CEBC) μ grieķu m
 UTF8(C2B5) µ - mikro
-
+π 3.14
 pakāpes
 x⁰¹²³⁴⁵⁶⁷⁸⁹ x⁽ᵃᵇᶜᵈᵉᶠᵍʰⁱʲᵏˡᵐⁿᵒᵖʳˢᵗᵘᵛʷˣʸᶻ⁺ⁿ⁻⁾⁼
 indeksi
